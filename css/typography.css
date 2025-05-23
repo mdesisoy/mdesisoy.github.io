@@ -18,6 +18,7 @@ body {
 }
 
 .main-title {
+  color: rgb(233, 158, 145);
   font-size: 40px;
   font-weight: 700;
 }
