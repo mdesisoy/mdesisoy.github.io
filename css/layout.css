@@ -146,7 +146,7 @@ body {
   }
 
   .card {
-    max-width: 90%; /* ancho más amigable en móvil */
+    max-width: 90%;
   }
 }
 
